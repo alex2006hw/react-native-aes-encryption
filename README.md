@@ -1,8 +1,7 @@
-# react-native-aes-encryption
-cross platform AES encryption(For Android and iOS)
+# react-native-aes-encryption patched for RN0.40.2
+--------------
+- android buildtoolversion 23.0.3, minsdkversion 18, targetsdkversion 19
 
-# How to use
-rnpm install react-native-aes-encryption
 
-# Code From
-Cross-platform-AES-encryption[https://github.com/Pakhee/Cross-platform-AES-encryption]
+
+- Original [Readme](./README-orig.md)
